@@ -1,63 +1,32 @@
-- title: Start
+- title: "Start"
   url: "/"
   side: left
 
-- title: Getting Started
-  url: "/getting-started/"
-  side: left
-
-- title: "Templates"
-  url: "/design/"
+- title: Research
+  url: "/research/"
   side: left
   dropdown:
-  - title: "Grid & Colors"
-    url: "/design/grid/"
-  - title: "Typography"
-    url: "/design/typography/typography/"
-  - title: "Page/Post"
-    url: "/design/page/"
-  - title: "Post-Left-Sidebar"
-    url: "/design/post-left-sidebar/"
-  - title: "Post-Right-Sidebar"
-    url: "/design/post-right-sidebar/"
-  - title: "Page Full-Width"
-    url: "/design/page-fullwidth/"
-  - title: "Blog-Page"
-    url: "/blog/"
-  - title: "Video"
-    url: "/design/video/"
-  - title: "Gallery"
-    url: "/design/gallery/"
-  - title: "Portfolio"
-    url: "/design/portfolio/"
+  - title: "Current Projects"
+    url: "/research/current/"
+  - title: "Past Projects"
+    url: "/research/past/"
+  - title: "Publications"
+    url: "/research/publications/"
 
-- title: "Header Styles"
-  url: "/headers/"
+- title: Development
+  url: "/development/"
+  side: left
+
+- title: Teaching
+  url: "/teaching/"
   side: left
   dropdown:
-  - title: "Header with Full-Width-Image"
-    url: "/design/header-full-width-image/"
-  - title: "Header with Image and Pattern"
-    url: "/design/header-image-pattern/"
-  - title: "Header with image and color"
-    url: "/design/header-image-color/"
-  - title: "Header Only With Logo"
-    url: "/design/header-logo-only/"
-  - title: "Header With Text"
-    url: "/design/header-with-text/"
-  - title: "No Header"
-    url: "/design/no-header/"
-  - title: "No Header but Image"
-    url: "/design/no-header-but-image/"
-
-- title: Documentation
-  url: "/documentation/"
-  side: left
-  dropdown:
-  - title: "Changelog"
-    url: "/changelog/"
-  - title: "Roadmap"
-    url: "/roadmap/"
+  - title: "Current Courses"
+    url: "/teaching/current/"
+  - title: "Past Courses"
+    url: "/teaching/past/"
+  - title: "Resources"
+    url: "/teaching/resources/"
 
 - title: Blog
   url: "/blog/"

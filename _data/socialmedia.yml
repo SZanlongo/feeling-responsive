@@ -1,27 +1,32 @@
 - name: GitHub
-  url: http://github.com/phlow
+  url: http://github.com/szanlongo
   class: icon-github
-  title: Code und mehr...
+  title: "Code and more..."
 
-- name: YouTube
-  url: http://www.youtube.com/PhlowMedia
-  class: icon-youtube
-  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
+- name: LinkedIn
+  url: https://www.linkedin.com/in/sebastian-zanlongo-b0646263
+  class: icon-linkedin
+  title: "Professional Networking"
 
-- name: Twitter
-  url: http://twitter.com/phlow
-  class: icon-twitter
-  title: "Immer das Neuste von Phlow gibt es auf Twitter"
+# - name: YouTube
+  # url: http://www.youtube.com/
+  # class: icon-youtube
+  # title: "Videos, Video-Tutorials and Films"
 
-- name: Mixcloud
-  url: http://www.mixcloud.com/phlow/
-  class: icon-cloud
-  title: "Mixe, was sonst?"
+# - name: Twitter
+#   url: http://twitter.com/
+#   class: icon-twitter
+#   title: "The newest is always on Twitter"
 
-- name: Phlow YouTube Google+
-  url: https://plus.google.com/u/0/+Phlow
-  class: icon-googleplus
-  title: "YouTube Google+"
+# - name: Mixcloud
+#   url: http://www.mixcloud.com/
+#   class: icon-cloud
+#   title: "Mix, what else?"
+
+# - name: Google+
+#   url: https://plus.google.com/u/0/+
+#   class: icon-googleplus
+#   title: "Google+"
 
 # - name: Facebook
 #   url: http://www.facebook.com/
