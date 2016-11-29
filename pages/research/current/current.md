@@ -1,14 +1,20 @@
 ---
 layout: page
-subheadline: Templates
-title:  "Current Research Projects"
-teaser: "Current and past research projects."
+subheadline: "Current Research"
+title:  "Research"
+teaser: "Projects that I am currently working on:"
 breadcrumb: true
-image:
-    thumb: gallery-example-3-thumb.jpg
+# image:
+    # thumb:
     # title:
     # caption_url:
 permalink: "/research/current/"
 ---
 
-Text
+### Human-Robot Interaction
+- [Multi-Robot Planning for Non-Overlapping Operator Attention Allocation](/research/projects/operator-attention/)
+- A Jungian based framework for Artificial Personality Synthesis
+
+### Motion-Planning for Construction Applications
+- Scheduling and Path Planning for Computational Ferrying
+- Multipurpose All-Terrain Robotic Platform for Deactivation and Decommissioning
