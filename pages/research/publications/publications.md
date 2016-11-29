@@ -19,7 +19,7 @@ permalink: "/research/publications/"
 ##### Conference
 - Zanlongo, Sebastian, et al. "Scheduling and Path Planning for Computational Ferrying." Military Communications Conference, MILCOM 2016-2016 IEEE. IEEE, 2016.
 
-##### Publication
+##### Poster
 - Zanlongo, Sebastian, et al, "Cooperative Robot Scheduling and Path Planning for D&D Applications." Waste Management Symposia, 2016
 
 ### 2015

@@ -18,7 +18,7 @@ widget3:
   title: "Teaching"
   url: "/teaching/"
   image: graduation-cap.png
-  text: "Everything you need to succeed in class and then some! Contains links to my current and previous labs, along with some general tips and guidelines based on FAQ's. Personal page not affiliated with FIU."
+  text: "Everything you need to succeed in class and then some! Contains links to my current and previous labs, along with some general tips and guidelines based on FAQ's. This is a personal page not affiliated with FIU."
 
 permalink: /index.html
 #
