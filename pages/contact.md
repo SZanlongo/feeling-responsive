@@ -5,7 +5,7 @@ title: "Contact"
 #subheadline:
 teaser: "Need to get in touch with me? Use the contact form."
 header:
-   image_fullwidth: "airplane.jpg"
+   image_fullwidth: "airplane.png"
 permalink: "/contact/"
 ---
 

@@ -5,7 +5,7 @@ title:  "Development"
 teaser: "PIPE+ Petri net model creator and checker."
 breadcrumb: true
 header:
-   image_fullwidth: "development/projects/pipeplus/pipeplus_01.jpg"
+   image_fullwidth: "development/projects/pipeplus/pipeplus_01.png"
 permalink: "/development/projects/pipeplus/"
 ---
 

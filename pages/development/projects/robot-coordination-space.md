@@ -5,7 +5,7 @@ title:  "Development"
 teaser: "Generates a coordination space for n robots with n static obstacles residing in a 2D plane."
 breadcrumb: true
 header:
-   image_fullwidth: "development/projects/robot-coordination-space/robot-coordination-space_01.jpg"
+   image_fullwidth: "development/projects/robot-coordination-space/robot-coordination-space_01.png"
 permalink: "/development/projects/robot-coordination-space/"
 ---
 

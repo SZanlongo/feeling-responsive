@@ -5,7 +5,7 @@ title:  "Development"
 teaser: "Autonomous hallway navigation using OpenCV."
 breadcrumb: true
 header:
-   image_fullwidth: "development/projects/vanishing-point-detection/ardrone_01.jpg"
+   image_fullwidth: "development/projects/vanishing-point-detection/ardrone_01.png"
 permalink: "/development/projects/vanishing-point-detection/"
 ---
 

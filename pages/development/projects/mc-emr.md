@@ -5,7 +5,7 @@ title:  "Development"
 teaser: "Mobile Clinic Electronic Medical Records"
 breadcrumb: true
 header:
-   image_fullwidth: "development/projects/mc-emr/mc-emr_01.jpg"
+   image_fullwidth: "development/projects/mc-emr/mc-emr_01.png"
 permalink: "/development/projects/mc-emr/"
 ---
 
