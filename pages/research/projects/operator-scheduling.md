@@ -1,8 +1,8 @@
 ---
 layout: page
-subheadline: "Multi-Robot Planning for Non-Overlapping Operator Attention Allocation"
-title:  "Past Research"
-teaser: "Supplemental materials"
+subheadline: "Past Research"
+title:  "Multi-Robot Planning for Non-Overlapping Operator Attention Allocation"
+teaser: "Operator Scheduling"
 breadcrumb: true
 # image:
     # thumb:

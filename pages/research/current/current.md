@@ -1,13 +1,11 @@
 ---
 layout: page
-subheadline: "Current Research"
-title:  "Research"
-teaser: "Projects that I am currently working on:"
+subheadline: "Research"
+title:  "Current Research"
+# teaser: 
 breadcrumb: true
-# image:
-    # thumb:
-    # title:
-    # caption_url:
+header:
+   image_fullwidth: "research/edison.png"
 permalink: "/research/current/"
 ---
 

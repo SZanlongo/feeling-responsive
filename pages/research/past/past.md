@@ -1,17 +1,13 @@
 ---
 layout: page
-# subheadline:
+subheadline: "Research"
 title:  "Past Research"
 # teaser:
 breadcrumb: true
-# image:
-    # thumb:
-    # title:
-    # caption_url:
+header:
+   image_fullwidth: "research/edison.png"
 permalink: "/research/past/"
 ---
-
-Projects I've worked on in the past:
 
 ### Human-Robot Interaction
 - A Jungian based framework for Artificial Personality Synthesis

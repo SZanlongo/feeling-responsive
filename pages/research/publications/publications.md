@@ -1,13 +1,11 @@
 ---
 layout: page
-subheadline: Publications
-title:  "Research"
-teaser: "Journal and conference publications and relevant posters."
+subheadline: "Research"
+title:  "Publications"
+# teaser: 
 breadcrumb: true
-# image:
-    # thumb:
-    # title:
-    # caption_url:
+header:
+   image_fullwidth: "research/edison.png"
 permalink: "/research/publications/"
 ---
 

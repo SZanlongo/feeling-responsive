@@ -4,10 +4,8 @@ layout: page
 title:  "Research"
 teaser: "Current and past research projects."
 breadcrumb: true
-# image:
-    # thumb:
-    # title:
-    # caption_url:
+header:
+   image_fullwidth: "research/edison.png"
 permalink: "/research/"
 ---
 
