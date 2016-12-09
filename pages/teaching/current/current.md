@@ -1,13 +1,11 @@
 ---
 layout: page
-# subheadline: 
-title:  "Teaching"
-teaser: "Current classes"
+subheadline: "Teaching"
+title:  "Current Classes"
+# teaser:
 breadcrumb: true
-# image:
-    # thumb:
-    # title:
-    # caption_url:
+header:
+   image_fullwidth: "teaching/computer.png"
 permalink: "/teaching/current/"
 ---
 

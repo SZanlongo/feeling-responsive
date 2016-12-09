@@ -1,13 +1,11 @@
 ---
 layout: page
-# subheadline:
-title:  "Teaching"
-teaser: "Past classes."
+subheadline: "Teaching"
+title:  "Past classes"
+# teaser:
 breadcrumb: true
-# image:
-    # thumb:
-    # title:
-    # caption_url:
+header:
+   image_fullwidth: "teaching/computer.png"
 permalink: "/teaching/past/"
 ---
 

@@ -4,10 +4,8 @@ layout: page
 title:  "Teaching"
 teaser: "Current and past classes."
 breadcrumb: true
-# image:
-    # thumb:
-    # title:
-    # caption_url:
+header:
+   image_fullwidth: "teaching/computer.png"
 permalink: "/teaching/"
 ---
 

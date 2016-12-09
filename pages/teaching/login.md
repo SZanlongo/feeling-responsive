@@ -1,13 +1,11 @@
 ---
 layout: page
-subheadline: "Login Information"
-title:  "Teaching"
+subheadline: "Teaching"
+title:  "Login Information"
 teaser: "Instructions for logging in to Moodle."
 breadcrumb: true
-# image:
-    # thumb:
-    # title:
-    # caption_url:
+header:
+   image_fullwidth: "teaching/computer.png"
 permalink: "/teaching/login/"
 ---
 

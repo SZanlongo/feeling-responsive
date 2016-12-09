@@ -1,13 +1,11 @@
 ---
 layout: page
-subheadline: "Resources"
-title:  "Teaching"
+subheadline: "Teaching"
+title:  "Resources"
 teaser: "Free or discounted software available for students."
 breadcrumb: true
-# image:
-    # thumb:
-    # title:
-    # caption_url:
+header:
+   image_fullwidth: "teaching/computer.png"
 permalink: "/teaching/resources/"
 ---
 

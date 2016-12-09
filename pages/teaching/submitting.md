@@ -1,13 +1,11 @@
 ---
 layout: page
-subheadline: "Submitting"
-title:  "Teaching"
+subheadline: "Teaching"
+title:  "Submitting"
 teaser: "Submission format."
 breadcrumb: true
-# image:
-    # thumb:
-    # title:
-    # caption_url:
+header:
+   image_fullwidth: "teaching/computer.png"
 permalink: "/teaching/submitting/"
 ---
 

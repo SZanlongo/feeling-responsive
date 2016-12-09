@@ -1,13 +1,11 @@
 ---
 layout: page
-subheadline: "Policies"
-title:  "Teaching"
+subheadline: "Teaching"
+title:  "Policies"
 teaser: "Rules and regulations"
 breadcrumb: true
-# image:
-    # thumb:
-    # title:
-    # caption_url:
+header:
+   image_fullwidth: "teaching/computer.png"
 permalink: "/teaching/policies/"
 ---
 
