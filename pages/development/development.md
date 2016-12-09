@@ -4,10 +4,8 @@ subheadline: Projects
 title:  "Development"
 teaser: "Collection of software projects and code snippets."
 breadcrumb: true
-# image:
-    # thumb:
-    # title:
-    # caption_url:
+header:
+   image_fullwidth: "development/octopus.png"
 permalink: "/development/"
 ---
 
