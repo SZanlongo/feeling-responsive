@@ -4,6 +4,8 @@ title: "About"
 meta_title: "About Sebastian Zanlongo"
 # subheadline:
 teaser: "Need to get in touch with me? Use the contact form."
+header:
+   image_fullwidth: "pixel_office.png"
 permalink: "/about/"
 ---
 Graduate researcher at Florida International University. Currently working on minimalistic approaches for single-operator control of multiple semi-autonomous vehicles.

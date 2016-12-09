@@ -2,8 +2,10 @@
 layout: page
 title: "Contact"
 # meta_title:
-#subheadline: 
+#subheadline:
 teaser: "Need to get in touch with me? Use the contact form."
+header:
+   image_fullwidth: "airplane.jpg"
 permalink: "/contact/"
 ---
 
