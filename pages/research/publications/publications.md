@@ -2,7 +2,7 @@
 layout: page
 subheadline: "Research"
 title:  "Publications"
-# teaser: 
+# teaser:
 breadcrumb: true
 header:
    image_fullwidth: "research/edison.png"
@@ -16,9 +16,10 @@ permalink: "/research/publications/"
 
 ##### Conference
 - Zanlongo, Sebastian, et al. "Scheduling and Path Planning for Computational Ferrying." Military Communications Conference, MILCOM 2016-2016 IEEE. IEEE, 2016.
+- Abrahao, Anthony, et al. “Remotely Operated Multi-Tracked Robot for Visual Inspection in D&D Activities”, Florida Conference on Recent Advances in Robotics, Miami, FL, May 12-13, 2016.
 
 ##### Poster
-- Zanlongo, Sebastian, et al, "Cooperative Robot Scheduling and Path Planning for D&D Applications." Waste Management Symposia, 2016
+- Zanlongo, Sebastian, et al. "Cooperative Robot Scheduling and Path Planning for D&D Applications." Waste Management Symposia, 2016
 
 ### 2015
 
