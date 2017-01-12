@@ -11,6 +11,9 @@ permalink: "/research/publications/"
 
 ### 2016
 
+##### Poster
+- Zanlongo, Sebastian, et al. "Cooperative Robot Scheduling and Path Planning for D&D Applications." Waste Management Symposia, 2016
+
 ##### Workshop
 - [Mascarenas, David "A Jungian based framework for Artificial Personality Synthesis." 4 th Workshop on Emotions and Personality in Personalized Systems (EMPIRE) 2016.](http://ieeexplore.ieee.org/document/7139735/)
 
@@ -18,8 +21,8 @@ permalink: "/research/publications/"
 - Zanlongo, Sebastian, et al. "Scheduling and Path Planning for Computational Ferrying." Military Communications Conference, MILCOM 2016-2016 IEEE. IEEE, 2016.
 - Abrahao, Anthony, et al. “Remotely Operated Multi-Tracked Robot for Visual Inspection in D&D Activities”, Florida Conference on Recent Advances in Robotics, Miami, FL, May 12-13, 2016.
 
-##### Poster
-- Zanlongo, Sebastian, et al. "Cooperative Robot Scheduling and Path Planning for D&D Applications." Waste Management Symposia, 2016
+##### Journal
+- [Rahman, Md Mahbubur, et al. "An Automated Methodology for Worker Path Generation and Safety Assessment in Construction Projects", 2016 IEEE Transactions on Automation Science and Engineering](http://ieeexplore.ieee.org/abstract/document/7790844/)
 
 ### 2015
 
