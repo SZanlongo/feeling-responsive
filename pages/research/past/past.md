@@ -9,13 +9,18 @@ header:
 permalink: "/research/past/"
 ---
 
-### Human-Robot Interaction
-- A Jungian based framework for Artificial Personality Synthesis
-- Scheduling and Path Planning for Computational Ferrying (Link not yet available)
+### Multi-Robot Coordination
+- Cooperative Robot Scheduling and Path Planning for D&D Applications
+- Scheduling and Path Planning for Computational Ferrying
+- Verifying Robotic Drilling Systems via Petri Nets
 
 ### Motion-Planning for Construction Applications
+- An Automated Methodology for Worker Path Generation and Safety Assessment in Construction Projects
 - A coupled discrete-event and motion planning methodology for automated safety assessment in construction projects
 - A Non-Invasive Sensing System for Decoding Occupancy Behaviors Affecting Building Energy Performance
+
+### Robotic Platforms
+- Remotely Operated Multi-Tracked Robot for Visual Inspection in D&D Activities
 
 ### Location Privacy
 - In-Network Trajectory Privacy Preservation
