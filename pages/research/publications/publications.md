@@ -9,13 +9,21 @@ header:
 permalink: "/research/publications/"
 ---
 
+### 2017
+
+#### Poster
+-
+
+#### Conference
+- Zanlongo, Sebastian, et al. "[Multi-Robot Planning for Non-Overlapping Operator Attention Allocation.](/research/past/operator-attention-allocation/)" International Conference on Robotic Computing, Taichung, Taiwan, April 10-12, 2017
+
 ### 2016
 
 ##### Poster
 - Zanlongo, Sebastian, et al. "Cooperative Robot Scheduling and Path Planning for D&D Applications." Waste Management Symposia, 2016
 
 ##### Workshop
-- [Mascarenas, David "A Jungian based framework for Artificial Personality Synthesis." 4 th Workshop on Emotions and Personality in Personalized Systems (EMPIRE) 2016.](http://ieeexplore.ieee.org/document/7139735/)
+- [Mascarenas, David "A Jungian based framework for Artificial Personality Synthesis." 4th Workshop on Emotions and Personality in Personalized Systems (EMPIRE) 2016.](http://ieeexplore.ieee.org/document/7139735/)
 
 ##### Conference
 - Zanlongo, Sebastian, et al. "Scheduling and Path Planning for Computational Ferrying." Military Communications Conference, MILCOM 2016-2016 IEEE. IEEE, 2016.
