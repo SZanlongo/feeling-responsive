@@ -12,7 +12,7 @@ permalink: "/research/publications/"
 ### 2017
 
 #### Poster
--
+- Zanlongo, Sebastian, et al. "Extensible Robotic Platform for D&D Activities." Waste Management Symposia, Phoenix, Arizona, March 5-9, 2017
 
 #### Conference
 - Zanlongo, Sebastian, et al. "[Multi-Robot Planning for Non-Overlapping Operator Attention Allocation.](/research/past/operator-attention-allocation/)" International Conference on Robotic Computing, Taichung, Taiwan, April 10-12, 2017
@@ -20,7 +20,7 @@ permalink: "/research/publications/"
 ### 2016
 
 ##### Poster
-- Zanlongo, Sebastian, et al. "Cooperative Robot Scheduling and Path Planning for D&D Applications." Waste Management Symposia, 2016
+- Zanlongo, Sebastian, et al. "Cooperative Robot Scheduling and Path Planning for D&D Applications." Waste Management Symposia, Phoenix, Arizona, March 6-10, 2016
 
 ##### Workshop
 - [Mascarenas, David "A Jungian based framework for Artificial Personality Synthesis." 4th Workshop on Emotions and Personality in Personalized Systems (EMPIRE) 2016.](https://empire2016recsys.files.wordpress.com/2016/03/mascarenas_empire2016_slides.pdf)
