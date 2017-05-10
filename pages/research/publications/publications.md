@@ -16,6 +16,7 @@ permalink: "/research/publications/"
 
 #### Conference
 - Zanlongo, Sebastian, et al. "[Multi-Robot Planning for Non-Overlapping Operator Attention Allocation.](/research/past/operator-attention-allocation/)" International Conference on Robotic Computing, Taichung, Taiwan, April 10-12, 2017
+  - Session Chair for Parallel Session IRC(7): Task Planning and Multi-robot Systems
 
 ### 2016
 
@@ -27,6 +28,7 @@ permalink: "/research/publications/"
 
 ##### Conference
 - [Zanlongo, Sebastian, et al. "Scheduling and Path Planning for Computational Ferrying." Military Communications Conference, MILCOM 2016-2016 IEEE. IEEE, 2016.](http://ieeexplore.ieee.org/abstract/document/7795399/)
+  - [Presentation Slides]()
 - [Abrahao, Anthony, et al. “Remotely Operated Multi-Tracked Robot for Visual Inspection in D&D Activities”, Florida Conference on Recent Advances in Robotics, Miami, FL, May 12-13, 2016.](http://www.eng.fiu.edu/mme/robotics/fcrar2016/FCRAR2016PROCEEDINGS.pdf#page=189)
 
 ##### Journal
