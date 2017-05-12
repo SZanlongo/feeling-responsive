@@ -15,8 +15,10 @@ permalink: "/research/publications/"
 - Zanlongo, Sebastian, et al. "Extensible Robotic Platform for D&D Activities." Waste Management Symposia, Phoenix, Arizona, March 5-9, 2017
 
 #### Conference
+- Zanlongo, Sebastian, et al. "Path-Planning of Miniature Rovers for Inspection of the Hanford High-Level Waste Double Shell Tanks" Florida Conference on Recent Advances in Robotics, Boca Raton, Florida, May 11-12, 2017
+  - Session Chair for Session 7: Mobile Robots
 - Zanlongo, Sebastian, et al. "[Multi-Robot Planning for Non-Overlapping Operator Attention Allocation.](/research/past/operator-attention-allocation/)" International Conference on Robotic Computing, Taichung, Taiwan, April 10-12, 2017
-  - Session Chair for Parallel Session IRC(7): Task Planning and Multi-robot Systems
+  - Session Chair for Session 7: Task Planning and Multi-robot Systems
 
 ### 2016
 
