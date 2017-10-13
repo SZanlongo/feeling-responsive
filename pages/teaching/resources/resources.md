@@ -15,16 +15,24 @@ I find that a lot of students carry their code on a thumb drive. This is accepta
 ##### Repositories
 These are the places that will host your code:
 
-- [GitHub](https://education.github.com/) is best for showing off public work. You can also grab an academic license which gives you 5 private repos.
+- [GitHub](https://education.github.com/) is best for showing off public work. You can also grab an [academic license](https://education.github.com/discount_requests/new) which gives you 5 private repos.
 - [GitLab](https://about.gitlab.com/) provides unlimited private repos for free, and also allows for self-hosting.
 - [Bitbucket](https://blog.bitbucket.org/2012/08/20/bitbucket-academic/) provides unlimited private repos for free.
 
-##### Git Clients
+##### git Tutorials
+- The [Atlassian Tutorials](https://www.atlassian.com/git/tutorials) are quite well-written, and cover a variety of topics pertaining to git.
+
+##### git Clients
 Getting started with git can be daunting, and many people prefer using a GUI.
 
 - [GitKraken](https://www.gitkraken.com/) for Linux, OSX, and Windows.
 - [SourceTree](http://www.sourcetreeapp.com/) for OSX and Windows.
 - [SmartGit](http://www.syntevo.com/smartgit/) for Linux, OSX, and Windows
+
+##### More git-Related Stuff
+- Every project should be accompanied by a good [README](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) and appropriate [.gitignore](https://www.gitignore.io/).
+- [git-Flow](http://nvie.com/posts/a-successful-git-branching-model/) is probably one of the most common branching strategies. Very useful when working in teams, and even for individual projects.
+- [(GitHub) Glossary](https://help.github.com/articles/github-glossary/)
 
 ### Microsoft
 - [ShopUTS](https://shoputs.fiu.edu/login.php) allows FIU students to get a free copy of Microsoft Office
