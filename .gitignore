@@ -3,32 +3,13 @@ _site/
 .DS_Store
 
 
-# Created by https://www.gitignore.io/api/osx,linux,windows,jekyll
 
-### OSX ###
-*.DS_Store
-.AppleDouble
-.LSOverride
+# Created by https://www.gitignore.io/api/osx,linux,jekyll,windows
 
-# Icon must end with two \r
-Icon
-# Thumbnails
-._*
-# Files that might appear in the root of a volume
-.DocumentRevisions-V100
-.fseventsd
-.Spotlight-V100
-.TemporaryItems
-.Trashes
-.VolumeIcon.icns
-.com.apple.timemachine.donotpresent
-# Directories potentially created on remote AFP share
-.AppleDB
-.AppleDesktop
-Network Trash Folder
-Temporary Items
-.apdisk
-
+### Jekyll ###
+_site/
+.sass-cache/
+.jekyll-metadata
 
 ### Linux ###
 *~
@@ -45,11 +26,38 @@ Temporary Items
 # .nfs files are created when an open file is removed but is still being accessed
 .nfs*
 
+### OSX ###
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
 
 ### Windows ###
-# Windows image file caches
+# Windows thumbnail cache files
 Thumbs.db
 ehthumbs.db
+ehthumbs_vista.db
 
 # Folder config file
 Desktop.ini
@@ -66,8 +74,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-
-### Jekyll ###
-_site/
-.sass-cache/
-.jekyll-metadata
+# End of https://www.gitignore.io/api/osx,linux,jekyll,windows
