@@ -12,40 +12,49 @@ permalink: "/research/publications/"
 ### 2017
 
 #### Poster
-- Zanlongo, Sebastian, et al. "Extensible Robotic Platform for D&D Activities." Waste Management Symposia, Phoenix, Arizona, March 5-9, 2017
+- Zanlongo, Sebastian, et al. "[Extensible Robotic Platform for D&D Activities.](https://drive.google.com/file/d/0B7LrHOVVu2-DQ3FmRkhvYzN0VlE/view?usp=sharing)" Waste Management Symposia, Phoenix, Arizona, March 5-9, 2017
+- Zanlongo, Sebastian, et al. "Informative Path-Planning for Tank Inspection." DOE Fellows Poster Exhibition, Miami, Florida, November 7, 2017
+- [FIU McNair Scholars Research Conference](http://mcnairconference.fiu.edu/), Miami, Florida, October 20, 2017
+  - Poster Session Reviewer for Session B
 
 #### Conference
-- Zanlongo, Sebastian, et al. "Path-Planning of Miniature Rovers for Inspection of the Hanford High-Level Waste Double Shell Tanks" Florida Conference on Recent Advances in Robotics, Boca Raton, Florida, May 11-12, 2017
+- Zanlongo, Sebastian, et al. "[Path-Planning of Miniature Rovers for Inspection of the Hanford High-Level Waste Double Shell Tanks](http://public.eng.fau.edu/design/fcrar2017/papers/Path-PlanningMiniatureRovers.pdf)" Florida Conference on Recent Advances in Robotics, Boca Raton, Florida, May 11-12, 2017
+  - [Presentation slides](https://drive.google.com/file/d/0B7LrHOVVu2-DRlR6clZwb3RnM2M/view?usp=sharing)
   - Session Chair for Session 7: Mobile Robots
 - Zanlongo, Sebastian, et al. "[Multi-Robot Planning for Non-Overlapping Operator Attention Allocation.](/research/past/operator-attention-allocation/)" International Conference on Robotic Computing, Taichung, Taiwan, April 10-12, 2017
+  - [Presentation slides](https://drive.google.com/file/d/0B7LrHOVVu2-DZkREQTNHaE85aU0/view?usp=sharing)
   - Session Chair for Session 7: Task Planning and Multi-robot Systems
+- [FIU McNair Scholars Research Conference](http://mcnairconference.fiu.edu/), Miami, Florida, October 19, 2017
+  - Session Chair for Afternoon Session: Computer, Civil and Aerospace
 
 ### 2016
 
 ##### Poster
-- Zanlongo, Sebastian, et al. "Cooperative Robot Scheduling and Path Planning for D&D Applications." Waste Management Symposia, Phoenix, Arizona, March 6-10, 2016
+- Zanlongo, Sebastian, et al. "[Cooperative Robot Scheduling and Path Planning for D&D Applications.](https://drive.google.com/file/d/0B7LrHOVVu2-Dd3hkUXNHc2xJV1k/view?usp=sharing)" Waste Management Symposia, Phoenix, Arizona, March 6-10, 2016
 
 ##### Workshop
-- [Mascarenas, David "A Jungian based framework for Artificial Personality Synthesis." 4th Workshop on Emotions and Personality in Personalized Systems (EMPIRE) 2016.](https://empire2016recsys.files.wordpress.com/2016/03/mascarenas_empire2016_slides.pdf)
+- Mascarenas, David "[A Jungian based framework for Artificial Personality Synthesis.](https://empire2016recsys.files.wordpress.com/2016/03/mascarenas_empire2016_slides.pdf)" 4th Workshop on Emotions and Personality in Personalized Systems (EMPIRE) 2016.
 
 ##### Conference
-- [Zanlongo, Sebastian, et al. "Scheduling and Path Planning for Computational Ferrying." Military Communications Conference, MILCOM 2016-2016 IEEE. IEEE, 2016.](http://ieeexplore.ieee.org/abstract/document/7795399/)
-  - [Presentation Slides]()
-- [Abrahao, Anthony, et al. “Remotely Operated Multi-Tracked Robot for Visual Inspection in D&D Activities”, Florida Conference on Recent Advances in Robotics, Miami, FL, May 12-13, 2016.](http://www.eng.fiu.edu/mme/robotics/fcrar2016/FCRAR2016PROCEEDINGS.pdf#page=189)
+- Zanlongo, Sebastian, et al. "[Scheduling and Path Planning for Computational Ferrying.](http://ieeexplore.ieee.org/abstract/document/7795399/)" Military Communications Conference, MILCOM 2016-2016 IEEE. IEEE, 2016.
+  - [Presentation Slides](https://drive.google.com/file/d/0B7LrHOVVu2-DbHNRamJsVENmSTA/view?usp=sharing)
+- Abrahao, Anthony, et al. “[Remotely Operated Multi-Tracked Robot for Visual Inspection in D&D Activities](http://www.eng.fiu.edu/mme/robotics/fcrar2016/FCRAR2016PROCEEDINGS.pdf#page=189)”, Florida Conference on Recent Advances in Robotics, Miami, FL, May 12-13, 2016.
+  - [Presentation slides](https://drive.google.com/file/d/0B7LrHOVVu2-DV2tWQlhDY0lsY0E/view?usp=sharing)
 
 ##### Journal
-- [Rahman, Md Mahbubur, et al. "An Automated Methodology for Worker Path Generation and Safety Assessment in Construction Projects", 2016 IEEE Transactions on Automation Science and Engineering](http://ieeexplore.ieee.org/abstract/document/7790844/)
+- Rahman, Md Mahbubur, et al. "[An Automated Methodology for Worker Path Generation and Safety Assessment in Construction Projects](http://ieeexplore.ieee.org/abstract/document/7790844/)", 2016 IEEE Transactions on Automation Science and Engineering
 
 ### 2015
 
 ##### Conference
-- [Rahman, Md Mahbubur, et al. "A coupled discrete-event and motion planning methodology for automated safety assessment in construction projects." 2015 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2015.](http://ieeexplore.ieee.org/document/7139735/?arnumber=7139735)
-- [Carmenate, Triana, et al. "A Non-Invasive Sensing System for Decoding Occupancy Behaviors Affecting Building Energy Performance" ASCE Computing in Civil Engineering Workshop 2015](http://ascelibrary.org/doi/pdf/10.1061/9780784479247.fm#page=8)
+- Rahman, Md Mahbubur, et al. "[A coupled discrete-event and motion planning methodology for automated safety assessment in construction projects.](http://ieeexplore.ieee.org/document/7139735/?arnumber=7139735)" 2015 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2015.
+- Carmenate, Triana, et al. "[A Non-Invasive Sensing System for Decoding Occupancy Behaviors Affecting Building Energy Performance](http://ascelibrary.org/doi/pdf/10.1061/9780784479247.fm#page=8)" ASCE Computing in Civil Engineering Workshop 2015
 
 ##### Journal
-- [Guo, Mingming, et al. "In-Network Trajectory Privacy Preservation." ACM Computing Surveys (CSUR) 48.2 (2015): 23.](https://dl.acm.org/citation.cfm?id=2818183)
+- Guo, Mingming, et al. "[In-Network Trajectory Privacy Preservation.](https://dl.acm.org/citation.cfm?id=2818183)" ACM Computing Surveys (CSUR) 48.2 (2015): 23.
 
 ### 2013
 
 ##### Poster
-- Zanlongo, Sebastian, et al. "Verifying Robotic Drilling Systems via Petri Nets." FIU Advanced Research and Creativity in Honors Conference, 2013
+- Zanlongo, Sebastian, et al. "[Verifying Robotic Drilling Systems via Petri Nets.](https://drive.google.com/file/d/0B7LrHOVVu2-Dbk16VkJqSXl2V28/view?usp=sharing)" FIU Advanced Research and Creativity in Honors Conference, 2013
+  - [Presentation Slides](https://drive.google.com/file/d/0B7LrHOVVu2-DeGRFdlR5SDVJZjA/view?usp=sharing)
