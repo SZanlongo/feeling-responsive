@@ -10,9 +10,6 @@ permalink: "/research/past/"
 ---
 
 ### Multi-Robot Coordination
-- [Multi-Robot Planning for Non-Overlapping Operator Attention Allocation](/research/past/operator-attention-allocation)
-- Cooperative Robot Scheduling and Path Planning for D&D Applications
-- Scheduling and Path Planning for Computational Ferrying
 - Verifying Robotic Drilling Systems via Petri Nets
 
 ### Motion-Planning for Construction Applications
