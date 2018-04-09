@@ -6,7 +6,7 @@ title:  "Multi-Robot Planning for Non-Overlapping Operator Attention Allocation"
 breadcrumb: true
 header:
    image_fullwidth: "research/edison.png"
-permalink: "/research/past/operator-attention-allocation/"
+permalink: "/research/projects/operator-scheduling/"
 ---
 
 ### People
