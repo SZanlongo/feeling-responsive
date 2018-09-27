@@ -1,7 +1,7 @@
 ---
 layout: page
-subheadline: "Past Research"
-title:  "Multi-Robot Planning for Non-Overlapping Operator Attention Allocation"
+subheadline: "Research"
+title:  "Planning for Non-Overlapping Operator Attention Allocation"
 # teaser:
 breadcrumb: true
 header:
