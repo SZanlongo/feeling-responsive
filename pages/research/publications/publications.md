@@ -13,6 +13,9 @@ permalink: "/research/publications/"
 
 #### Poster
 
+- Zanlongo, Sebastian, et al. “Informative Path Planning for Robotic Inspection of Radioactive Environments” DOE Fellows Poster Exhibition; Miami, FL, USA; November 15, 2018.
+- Zanlongo, Sebastian, et al. “Informative Path Planning for Robotic Inspection of Radioactive Environments” ANS Winter Conference and Nuclear Technology Expo; Orlando, FL, USA; November 13, 2018
+- Zanlongo, Sebastian, et al. “Informative Path Planning for Mapping Radiation” Savannah River National Laboratory Student Poster Session Aiken, SC, USA; July 25, 2018.
 - Zanlongo, Sebastian, et al. "[Informative Path Planning for Leak Detection](https://drive.google.com/file/d/1Kzf6BTqk2qLigKel5kbYE2Q1B6Yjbulm/view?usp=sharing)" Waste Management Symposia; Phoenix, Arizona, USA; March 18-22, 2018.
 
 #### Conference
