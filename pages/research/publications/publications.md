@@ -38,7 +38,7 @@ permalink: "/research/publications/"
 #### Poster
 
 - Zanlongo, Sebastian, et al. "[Extensible Robotic Platform for D&D Activities.](https://drive.google.com/file/d/0B7LrHOVVu2-DQ3FmRkhvYzN0VlE/view?usp=sharing)"; Waste Management Symposia; Phoenix, Arizona, USA; March 5-9, 2017.
-- Zanlongo, Sebastian, et al. "Informative Path-Planning for Tank Inspection"; DOE Fellows Poster Exhibition; Miami, FL, USA; November 7, 2017.
+- Zanlongo, Sebastian, et al. "[Informative Path-Planning for Tank Inspection](https://drive.google.com/file/d/1EFnjTZbVlwgL8ZDl5glNSGN-kQkveliV/view?usp=sharing)"; DOE Fellows Poster Exhibition; Miami, FL, USA; November 7, 2017.
 - [FIU McNair Scholars Research Conference](http://mcnairconference.fiu.edu/); Miami, FL, USA; October 20, 2017.
   - Poster Session Judge for Session B
 
