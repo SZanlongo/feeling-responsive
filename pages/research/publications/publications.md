@@ -13,7 +13,7 @@ permalink: "/research/publications/"
 
 #### Conference
 
-- Zanlongo, Sebastian, et al. "Informative Path Planning for Inspection of the Hanford Tank Farm"; International Conference on Robotics and Automation (ICRA); Montreal, Canada; May 20-24, 2019.
+- Zanlongo, Sebastian, et al. "Development of Informative Path Planning for Inspection of the Hanford Tank Farm"; International Conference on Robotics and Automation (ICRA); Montreal, Canada; May 20-24, 2019.
 
 #### Journal
 
