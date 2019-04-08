@@ -30,7 +30,7 @@ permalink: "/research/publications/"
 
 #### Conference
 
-- Zanlongo, Sebastian, et al. "[Informative Path Planning for Mapping Radiation](http://answinter.org/wp-content/2018/data/pdfs/529-26860.pdf)"; American Nuclear Socirty (ANS) Winter Conference and Nuclear Technology Expo; Orlando, FL, USA; November 11 - 15, 2018.
+- Zanlongo, Sebastian, et al. "[Informative Path Planning for Mapping Radiation](http://answinter.org/wp-content/2018/data/pdfs/529-26860.pdf)"; American Nuclear Society (ANS) Winter Conference and Nuclear Technology Expo; Orlando, FL, USA; November 11 - 15, 2018.
 - Zanlongo, Sebastian, et al. "[Multi-Robot Scheduling and Path-Planning for Non-Overlapping Operator Attention.](/research/projects/operator-scheduling/)"; International Conference on Robotic Computing (IRC); Laguna Hills, CA, USA; January 31 - February 2, 2018.
 
 ### 2017
