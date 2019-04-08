@@ -44,8 +44,8 @@ urlimg: 'https://szanlongo.github.io/images/'
 # Logo size is 600x80 pixels
 logo: "logo.png"
 
-# Gems
-gems:
+# Plugins
+plugins:
     - jekyll-asciidoc
     - jekyll-gist
     - jekyll-paginate
@@ -220,8 +220,8 @@ msapplication_tilecolor:                '#fabb00'
 #
 
 sass:
-    sass_dir: _sass
-    style: :compressed
+    sass_dir : _sass
+    style    : :compressed
 
 
 #       ___                __      __  _
